@@ -1,2 +1,5 @@
 ﻿жопа
 ggg
+Hello git
+cherry pick
+Hello, squash!
